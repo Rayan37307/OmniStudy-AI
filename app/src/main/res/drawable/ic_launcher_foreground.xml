@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Clean Nature & Peaceful Study Symbol centered inside 66dp safe zone (21 to 87) -->
+    <!-- Open Book / Zen Slate -->
+    <path
+        android:fillColor="#E8F5E9"
+        android:pathData="M54,64 C47,60 36,60 28,63 L28,76 C36,73 47,73 54,77 C61,73 72,73 80,76 L80,63 C72,60 61,60 54,64 Z" />
+    <path
+        android:pathData="M54,64 L54,77"
+        android:strokeColor="#1D4E31"
+        android:strokeWidth="1.5" />
+
+    <!-- Sprouting Botanical Leaf of Knowledge & Peace -->
+    <!-- Left Leaf -->
+    <path
+        android:fillColor="#86D69F"
+        android:pathData="M54,62 C40,58 36,44 42,34 C50,34 54,48 54,62 Z" />
+    <!-- Right Leaf -->
+    <path
+        android:fillColor="#A6F5C2"
+        android:pathData="M54,62 C68,58 72,44 66,34 C58,34 54,48 54,62 Z" />
+    <!-- Center Stem -->
+    <path
+        android:pathData="M54,62 L54,34"
+        android:strokeColor="#00391D"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round" />
+
+    <!-- Serene morning dew spark -->
+    <path
+        android:fillColor="#BCEFE3"
+        android:pathData="M66,32 C66,35 68,37 71,37 C68,37 66,39 66,42 C66,39 64,37 61,37 C64,37 66,35 66,32 Z" />
+</vector>

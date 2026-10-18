@@ -1,0 +1,6 @@
+{
+  "name": "OmniStudy AI",
+  "description": "All-in-one AI study platform with Cornell notes, SM-2 flashcards, mock exams, Pomodoro focus studio, and Feynman coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
